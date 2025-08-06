@@ -1,3 +1,4 @@
 
 // Placeholder for text-to-speech logic
-console.log("🔊 TTS reader initialized");
+console.log("🔈 TTS Ready");
+
